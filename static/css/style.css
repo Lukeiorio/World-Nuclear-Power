@@ -1,0 +1,38 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.pie {
+  fill: orange;
+}
+
+.pie:hover {
+  fill: green;
+}
+
+.pie:hover {
+  fill: blue;
+}
+
+.pie:hover {
+  fill: red;
+}
+
+.pie:hover {
+  fill: yellow;
+}
+
+.pie:hover {
+  fill: purple;
+}
+
+.pie:hover {
+  fill: pink;
+}
+
+.pie:hover {
+  fill: black;
+}
+
